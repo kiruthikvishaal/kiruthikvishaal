@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kiruthikvishaal/kiruthikvishaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> Voodoo Programming
+## Hi there 👋 Kiruthik here..
+
+<div align="center">
+  <center><h1>Hi there 👋 Kiruthik here..</h1></center>
+</div>
+
+
+
