@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > Voodoo Programming
-## Hi there 👋 Kiruthik here..
+<!--## Hi there 👋 Kiruthik here..-->
 
 <div align="center">
   <center><h1>Hi there 👋 Kiruthik here..</h1></center>
