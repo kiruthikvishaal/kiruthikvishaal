@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
   <center><h1>Hi there 👋 Kiruthik here..</h1></center>
 </div>
-
+<div align="center">
+  <center><h2>CSE Enthusiast :fire:</h2></center>
+</div>
 
 
