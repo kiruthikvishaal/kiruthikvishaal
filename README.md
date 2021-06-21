@@ -42,3 +42,14 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<hr>
+<h3> Languages and Tools :bulb: </h3>
+<p>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+</p>
