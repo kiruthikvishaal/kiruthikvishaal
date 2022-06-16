@@ -21,11 +21,36 @@ Here are some ideas to get you started:
 <div align="center">
   <center><h2>CSE Enthusiast :fire:</h2></center>
 </div>
-
-<img align="left" width="250"  src="https://user-images.githubusercontent.com/67495551/122349798-381f7200-cf6a-11eb-8842-60181c2656dc.jpg"/>
+<div align="center">
+<center><h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1></center>
+  </div>
+<p align='center'>
 
 ## About :slightly_smiling_face:
-🌱 I’m currently learning Web dev
+
+😎 A passionate individual who loves building web applications, a developer and problem solver by passion and a chess player by interest.<br/>
+🌱 I am currently learning Django framework.</br>
+👉 Hobbies other coding: Reading blogs or about History, Chess-Puzzles and Thinking about writing blogs🤔🤖</br>
+🤜 Check out my work.
+
+<h3> Languages and Tools :bulb: </h3>
+<p>
+  <img width="50" height="50" hspace="10" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+  <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
+  <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/>
+  <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/>
+   <img width="50" height="50" hspace="10" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>
+  <img width="50" height="50" hspace="10" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg"/>
+  <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
+  
+
+</p>
 
 <h3> Connect with Me :mag: </h3> 
 <table>
@@ -47,15 +72,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthikvishaal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>
 <hr>
-<h3> Languages and Tools :bulb: </h3>
-<p>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
-<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/>
- 
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-</p>
+
