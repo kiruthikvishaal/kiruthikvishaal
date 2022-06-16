@@ -39,6 +39,11 @@ Here are some ideas to get you started:
       <a href="https://www.hackerrank.com/skvishaal1003"> 
         <img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
       </a>
+      </td>
+      <td>
+      <a href="https://leetcode.com/Gordan_Ramsayy/"> 
+        <img height="30" src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white"/> 
+      </a>
     </td>
   </tr>
 </table>
@@ -50,6 +55,7 @@ Here are some ideas to get you started:
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/android.svg"/>
 <img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"/>
-<img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"/>
+<img width="50" height="50" hspace="10" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/>
+ 
 <img width="50" height="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 </p>
