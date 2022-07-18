@@ -65,11 +65,13 @@ Here are some ideas to get you started:
         <img height="30" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
       </a>
       </td>
+      <!--
       <td>
       <a href="https://leetcode.com/Gordan_Ramsayy/"> 
         <img height="30" src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white"/> 
       </a>
     </td>
+    -->
   </tr>
 </table>
 <a href="https://github.com/anuraghazra/convoychat">
