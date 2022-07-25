@@ -67,7 +67,7 @@ Here are some ideas to get you started:
       </td>
       <!--
       <td>
-      <a href="https://leetcode.com/Gordan_Ramsayy/"> 
+      <a href="https://leetcode.com/Kiru_Vishaal/"> 
         <img height="30" src="https://img.shields.io/badge/-Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white"/> 
       </a>
     </td>
